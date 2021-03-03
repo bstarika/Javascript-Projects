@@ -6,4 +6,5 @@ Assigned variables to values that can be altered, strings, etc.
 Concatenating strings with the + operator.
 Utilized various methods () including alert(), write(), etc.
 Expressing quotations with \".
-Can differentiate between arguments and parameters when creating subprograms.
+Coded button and paragraph elements.
+Differentiated arguments from parameters when creating subprograms.
