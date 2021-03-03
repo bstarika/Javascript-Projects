@@ -14,7 +14,7 @@ Utilized various methods () including alert(), write(), etc.
 
 Expressing quotations with \".
 
-Coded button and paragraph elements.
+Coded button and paragraph elements with various event handlers.
 
 Differentiated arguments from parameters when creating subprograms.
 
