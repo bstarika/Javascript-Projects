@@ -10,6 +10,8 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenating strings with the + operator.
 
+Performed multiple mathematical equations, along with the use of a modulus % operator.
+
 Utilized various methods () including alert(), write(), etc.
 
 Expressing quotations with \".
@@ -20,4 +22,3 @@ Differentiated arguments from parameters when creating subprograms.
 
 Can differentiate between arguments and parameters when creating subprograms.
 
-Performed multiple mathematical equations, along with the use of a modulus % operator.
