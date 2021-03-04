@@ -10,13 +10,15 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenating strings with the + operator.
 
+Performed multiple mathematical equations, along with the use of a modulus (%), negation (-), increment/decrement (++ --) operators.
+
 Utilized various methods () including alert(), write(), etc.
 
 Expressing quotations with \".
-<<<<<<< HEAD
-Coded button and paragraph elements.
+
+Coded button and paragraph elements with various event handlers.
+
 Differentiated arguments from parameters when creating subprograms.
-=======
 
 Can differentiate between arguments and parameters when creating subprograms.
->>>>>>> 02d3d36d7244a1cf878cf75358015127a31dfe42
+
