@@ -10,7 +10,7 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenating strings with the + operator.
 
-Performed multiple mathematical equations, along with the use of a modulus % operator.
+Performed multiple mathematical equations, along with the use of a modulus (%) and a negation (-) operator.
 
 Utilized various methods () including alert(), write(), etc.
 
