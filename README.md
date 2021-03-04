@@ -18,7 +18,7 @@ Expressing quotations with \".
 
 Coded button and paragraph elements with various event handlers.
 
-Differentiated arguments from parameters when creating subprograms.
+Created dictionaries with KVP's.
 
-Can differentiate between arguments and parameters when creating subprograms.
+Differentiated arguments from parameters when creating subprograms.
 
