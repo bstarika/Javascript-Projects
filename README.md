@@ -10,6 +10,8 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenating strings with the + operator.
 
+Utilized boolean operators, such as AND &&, OR || and NOT written !.
+
 Performed multiple mathematical equations, including NaN's and modulus (%), negation (-), increment/decrement (++ --) operators.
 
 Utilized various methods () including alert(), write(), etc.
