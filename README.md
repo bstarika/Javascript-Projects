@@ -10,9 +10,13 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenating strings with the + operator.
 
-Performed multiple mathematical equations, along with the use of a modulus (%), negation (-), increment/decrement (++ --) operators.
+Utilized boolean operators, such as AND &&, OR || and NOT written !.
+
+Performed multiple mathematical equations, including NaN's and modulus (%), negation (-), increment/decrement (++ --) operators.
 
 Utilized various methods () including alert(), write(), etc.
+
+Accessed console w/ console.log() method
 
 Expressing quotations with \".
 
