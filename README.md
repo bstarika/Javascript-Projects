@@ -14,6 +14,8 @@ Performed multiple mathematical equations, including NaN's and modulus (%), nega
 
 Utilized various methods () including alert(), write(), etc.
 
+Accessed console w/ console.log() method
+
 Expressing quotations with \".
 
 Coded button and paragraph elements with various event handlers.
