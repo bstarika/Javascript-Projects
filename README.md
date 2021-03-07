@@ -20,6 +20,8 @@ Utilized various methods () including alert(), write(), etc.
 
 Accessed console w/ console.log() method
 
+Coded with keywords "this" and "new".
+
 Expressed quotations with \".
 
 Coded button and paragraph elements with various event handlers.
