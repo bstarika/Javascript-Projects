@@ -22,6 +22,8 @@ Accessed console w/ console.log() method
 
 Coded with keywords "this" and "new" in an object constructor.
 
+Coded nested functions. 
+
 Aware of reserved words that variables cannot be assigned to.
 
 Expressed quotations with \".
