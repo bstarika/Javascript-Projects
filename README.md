@@ -20,7 +20,7 @@ Utilized various methods () including alert(), write(), etc.
 
 Accessed console w/ console.log() method
 
-Coded with keywords "this" and "new".
+Coded with keywords "this" and "new" in an object constructor.
 
 Aware of reserved words that variables cannot be assigned to.
 
