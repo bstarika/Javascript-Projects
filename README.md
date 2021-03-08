@@ -18,7 +18,7 @@ Created basic program with a ternary ? operator.
 
 Performed multiple mathematical equations, including NaN's and modulus (%), negation (-), increment/decrement (++ --) operators.
 
-Utilized various methods () including alert(), write(), uppercase(), toprecision()method.
+Utilized various methods () including alert(), write(), uppercase(), toprecision(), tofixed(), and valueof().
 
 Accessed console w/ console.log() method / debug code
 
