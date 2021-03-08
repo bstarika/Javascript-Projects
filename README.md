@@ -18,7 +18,7 @@ Performed multiple mathematical equations, including NaN's and modulus (%), nega
 
 Utilized various methods () including alert(), write(), etc.
 
-Accessed console w/ console.log() method
+Accessed console w/ console.log() method / debug code
 
 Coded with keywords "this" and "new" in an object constructor.
 
