@@ -20,7 +20,7 @@ Performed multiple mathematical equations, including NaN's and modulus (%), nega
 
 Utilized various methods () including alert(), write(), uppercase(), toprecision(), tofixed(), and valueof().
 
-Accessed console w/ console.log() method / debug code
+Accessed console w/ console.log() method and dev tools to debug code
 
 Coded with keywords "this" and "new" in an object constructor.
 
