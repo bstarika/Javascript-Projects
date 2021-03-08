@@ -38,5 +38,7 @@ Coded button and paragraph elements with various event handlers.
 
 Created dictionaries with KVP's.
 
+Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
+
 Differentiated arguments from parameters when creating subprograms.
 
