@@ -18,15 +18,19 @@ Performed multiple mathematical equations, including NaN's and modulus (%), nega
 
 Utilized various methods () including alert(), write(), etc.
 
-Accessed console w/ console.log() method
+Accessed console w/ console.log() method / debug code
 
 Coded with keywords "this" and "new" in an object constructor.
 
 Coded nested functions. 
 
+Programmed with both local/global variables.
+
 Aware of reserved words that variables cannot be assigned to.
 
 Expressed quotations with \".
+
+Combined if, else/if statements w/ date() methods.
 
 Coded button and paragraph elements with various event handlers.
 
