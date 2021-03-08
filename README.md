@@ -8,7 +8,9 @@ Coded external links with src attribute.
 
 Assigned variables to values that can be altered, strings, etc.
 
-Concatenated strings with the + operator.
+Concatenated strings with the + operator and concat() method.
+
+Extracted section in string with slice(), search() and string() method.  
 
 Utilized boolean operators, such as AND &&, OR || and NOT written !.
 
@@ -16,7 +18,7 @@ Created basic program with a ternary ? operator.
 
 Performed multiple mathematical equations, including NaN's and modulus (%), negation (-), increment/decrement (++ --) operators.
 
-Utilized various methods () including alert(), write(), etc.
+Utilized various methods () including alert(), write(), uppercase(), toprecision(), tofixed(), and valueof().
 
 Accessed console w/ console.log() method / debug code
 
