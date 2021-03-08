@@ -10,6 +10,8 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenated strings with the + operator and concat() method.
 
+Extracted section in string with slice() method.  
+
 Utilized boolean operators, such as AND &&, OR || and NOT written !.
 
 Created basic program with a ternary ? operator.
