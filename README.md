@@ -24,6 +24,8 @@ Coded with keywords "this" and "new" in an object constructor.
 
 Coded nested functions. 
 
+Programmed with both local/global variables.
+
 Aware of reserved words that variables cannot be assigned to.
 
 Expressed quotations with \".
