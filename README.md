@@ -32,6 +32,8 @@ Expressed quotations with \".
 
 Combined if statements w/ date() methods.
 
+Wrote a function that included an if / else statement.
+
 Coded button and paragraph elements with various event handlers.
 
 Created dictionaries with KVP's.
