@@ -10,7 +10,7 @@ Assigned variables to values that can be altered, strings, etc.
 
 Concatenated strings with the + operator and concat() method.
 
-Extracted section in string with slice() method.  
+Extracted section in string with slice() and search()method.  
 
 Utilized boolean operators, such as AND &&, OR || and NOT written !.
 
@@ -18,7 +18,7 @@ Created basic program with a ternary ? operator.
 
 Performed multiple mathematical equations, including NaN's and modulus (%), negation (-), increment/decrement (++ --) operators.
 
-Utilized various methods () including alert(), write(), etc.
+Utilized various methods () including alert(), write(), uppercase() etc.
 
 Accessed console w/ console.log() method / debug code
 
