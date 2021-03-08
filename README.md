@@ -30,9 +30,7 @@ Aware of reserved words that variables cannot be assigned to.
 
 Expressed quotations with \".
 
-Combined if statements w/ date() methods.
-
-Wrote a function that included an if / else statement.
+Combined if, else/if statements w/ date() methods.
 
 Coded button and paragraph elements with various event handlers.
 
