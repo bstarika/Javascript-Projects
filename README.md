@@ -38,6 +38,8 @@ Coded button and paragraph elements with various event handlers.
 
 Executed both while/for loops.
 
+Wrote an array and called a function within array.
+
 Created dictionaries with KVP's.
 
 Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
