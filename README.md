@@ -40,6 +40,8 @@ Executed both while/for loops.
 
 Wrote an array and called a function within array.
 
+Learned various statements including return, break, and continue.
+
 Created dictionaries with KVP's.
 
 Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
