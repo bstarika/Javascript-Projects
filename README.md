@@ -20,7 +20,7 @@ Performed multiple mathematical equations, including NaN's and modulus (%), nega
 
 Utilized various methods () including alert(), write(), uppercase(), toprecision(), tofixed(), and valueof().
 
-Accessed console w/ console.log() method / debug code
+Accessed console w/ console.log() method and dev tools to debug code
 
 Coded with keywords "this" and "new" in an object constructor.
 
@@ -36,7 +36,15 @@ Combined if, else/if statements w/ date() methods.
 
 Coded button and paragraph elements with various event handlers.
 
+Executed both while/for loops.
+
+Wrote an array and called a function within array.
+
+Learned various statements including return, break, and continue.
+
 Created dictionaries with KVP's.
+
+Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
 
 Differentiated arguments from parameters when creating subprograms.
 
