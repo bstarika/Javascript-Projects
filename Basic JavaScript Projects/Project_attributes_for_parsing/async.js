@@ -1,0 +1,1 @@
+alert(document.getElementById("p1").innerHTML); //async attribute for parsing
