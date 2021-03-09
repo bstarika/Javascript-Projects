@@ -36,6 +36,8 @@ Combined if, else/if statements w/ date() methods.
 
 Coded button and paragraph elements with various event handlers.
 
+Executed both while/for loops.
+
 Created dictionaries with KVP's.
 
 Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
