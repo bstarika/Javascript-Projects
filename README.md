@@ -46,7 +46,7 @@ Created basic program with switch statement.
 
 Created dictionaries with KVP's.
 
-Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
+Made a countdown program,slideshow, and a contact form with HTML, CSS, and JavaScript.
 
 Differentiated arguments from parameters when creating subprograms.
 
