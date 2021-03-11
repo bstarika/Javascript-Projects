@@ -42,9 +42,13 @@ Wrote an array and called a function within array.
 
 Learned various statements including return, break, and continue.
 
+Created basic program with switch statement.
+
 Created dictionaries with KVP's.
 
-Made a countdown program paired with a slideshow, utilizing HTML, CSS, and JavaScript.
+Made a countdown program,slideshow, and a contact form with HTML, CSS, and JavaScript.
+
+Created list with data attribute.
 
 Differentiated arguments from parameters when creating subprograms.
 
