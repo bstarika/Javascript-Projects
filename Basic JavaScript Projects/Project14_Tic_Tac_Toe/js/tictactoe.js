@@ -18,7 +18,7 @@ function placeXOrO(squareNumber) {
             //Active player may only be 'X' or 'O' so, if not 'X' it must be 'O'
         } else {
             //If activePlayer is equal to 'O', the o.png is placed in HTML
-            select.style.backgroundImage = 'url("images.o.png")';
+            select.style.backgroundImage = 'url("images/o.png")';
         }
         //squareNumber and activePlayer are concatenated together and added to array
         selectedSquares.push(squareNumber+activePlayer);
@@ -127,7 +127,7 @@ function disableClick() {
     //This makes body unclickable
     body.style.pointerEvents = 'none';
     //This makes body clickable again after 1 second
-    setTimeout(function() {body.syle.pointerEvents = 'auto';}, 1000);
+    setTimeout(function() {body.style.pointerEvents = 'auto';}, 1000);
 }
 
 //This function takes a string paramter of the path set earlier for 
@@ -140,7 +140,7 @@ function audio(audioURL) {
 }
 
 //This function utilizes HTML canvas to draw win lines
-]function drawWinLine(coordX1, coordY1, coordX2, coordY2) {
+function drawWinLine(coordX1, coordY1, coordX2, coordY2) {
     //This line accesses our HTML canvas element
     const canvas = document.getElementById('win-lines')
     //This line gives us access to methods and properties to use on canvas
@@ -209,4 +209,17 @@ function audio(audioURL) {
     animateLineDrawing();
     //This line waits 1 second. Then, clears canvas, resets game, and allows clicking again
     setTimeout(function() { clear(); resetGame(); }, 1000);
+}
+
+//This function resets the game in the event of a tie/win
+function resetGame() {
+    //This for loop iterates through each HTML square element
+    for (let i = 0; i < 9; i ++) {
+        //This variable gets the HTML element of i
+        let square = document.getElementById(String(i))
+        //This removes elements backgroundImage
+        square.style.backgroundImage = ''
+    }
+    //This resets array so its empty and can start over
+    selectedSquares = [];
 }
