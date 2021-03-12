@@ -174,7 +174,7 @@ function drawWinLine(coordX1, coordY1, coordX2, coordY2) {
         //This method sets the color of line
         c.strokeStyle = 'rgba (70, 255, 33, .8)';
         //This condition checks if endpoint is reached
-        if (xl <= x2 && y1 <= y2) {
+        if (x1 <= x2 && y1 <= y2) {
             //This condition adds 10 to the previous end x point
             if (x < x2) { x+= 10; }
             //This condition adds 10 to the previous end y point
@@ -185,7 +185,7 @@ function drawWinLine(coordX1, coordY1, coordX2, coordY2) {
         }
         //This condition is similar to the one above
         //This is necessary for the 6, 4, 2 win condition
-        if (xl <= x2 && y1 >= y2) {
+        if (x1 <= x2 && y1 >= y2) {
             if (x < x2) { x += 10; }
             if (y > y2) { y -= 10; }
             if (x >= x2 && y <= y2) { cancelAnimationFrame(animationLoop); }
