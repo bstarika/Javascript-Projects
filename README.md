@@ -46,7 +46,7 @@ Created basic program with switch statement.
 
 Created dictionaries with KVP's.
 
-Made a countdown program,slideshow, and a contact form with HTML, CSS, and JavaScript.
+Made a Tic Tac Toe game, countdown program, slideshow, and a contact form with HTML, CSS, and JavaScript.
 
 Created list with data attribute.
 
