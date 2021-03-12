@@ -70,7 +70,7 @@ function placeXOrO(squareNumber) {
 //drawWinLine function is called to draw line if condiiton is met
 function checkWinConditions() {
     // X O, 1, 2 condition
-    if  (arrayIncludes('OX', '1X', '2X')) { drawWinLine(50, 100, 558, 100) }
+    if  (arrayIncludes('0X', '1X', '2X')) { drawWinLine(50, 100, 558, 100) }
     // X 3, 4, 5 condition
     else if (arrayIncludes('3X', '4X', '5X')) { drawWinLine(50, 304, 558, 304) }
     // X 6, 7, 8 condition
