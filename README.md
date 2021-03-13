@@ -52,3 +52,5 @@ Created list with data attribute.
 
 Differentiated arguments from parameters when creating subprograms.
 
+Learned how to leverage AJAX to send a request to server, receive, and update data for browsers/users to use.
+
