@@ -50,6 +50,8 @@ Made a Tic Tac Toe game, calculator, countdown program, slideshow, and a contact
 
 Created list with data attribute.
 
+Utilized HTML DOM properties.
+
 Differentiated arguments from parameters when creating subprograms.
 
 Learned how to leverage AJAX to send a request to server, receive, and update data for browsers/users to use.
