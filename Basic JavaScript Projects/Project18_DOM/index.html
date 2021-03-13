@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Document Object Model</title>
+    </head>
+    <body>
+        <p>Click button to display title of document</p>
+        <button onclick="domFunction()">Click Here!</button>
+        <p id="dom"></p>
+
+        <script>
+            function domFunction() {
+                var f = document.title;     //HTML DOM title Property
+                document.getElementById("dom").innerHTML = f;
+            }
+        </script>
+    </body>
+</html>
