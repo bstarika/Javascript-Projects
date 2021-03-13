@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Basic AJAX Demo</title>
+		<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="main">
+			<h2>Get The Latest Content:</h2>     <!---The Get Content Button will be used below when accessing dara from remote server-->
+			<div class='content' id="content">      
+				<input type="button" class="button" value="Get Content" id="btn_content" onclick="getContent();"/>
+			</div>
+		<script type="text/javascript">
+
+			// STEP 1: setup the XML http request object
+            var ajax = new XMLHttpRequest();
+
+            // STEP 2: prepare the open ajax request - defined browser, how you will send and receive information
+            ajax.open('GET', 'content.html', true);
+            
+            // STEP 3: define the ajax response callback method 
+            ajax.onreadystatechange = function () {
+                if (ajax.readyState = 4) { //onreadystatechange property of 4 means request is finished and response is ready
+                    document.getElementById('content').innerHTML = ajax.responseText;
+                }
+            }
+
+            // STEP 4: send the ajax request for data - trigger event and initiated ajax send
+            function getContent() {
+                ajax.send();
+                document.getElementById('btn_content').style.display = 'none';
+            }
+
+
+		</script>
+    </body>
+</html>
