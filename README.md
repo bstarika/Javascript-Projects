@@ -56,7 +56,7 @@ Familiarized use of jQuery.
 
 Coded an XML document with XML DOM parsers/objects using the text string.
 
-Downloaded and utilized React.
+Downloaded and utilized React to build a timer.
 
 Differentiated arguments from parameters when creating subprograms.
 
