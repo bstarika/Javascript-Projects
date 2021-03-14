@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="XML_Example"></p>
+        <script>
+            var XML_Parser, XML_Document;
+        
+        //creates a text string
+        var show = "<show>" +
+        "<title>The Office</title>" +
+        "<director>Greg Daniels</director>" +
+        "<starring>Steve Carell and John Krasinski</starring>" +
+        "<year>2005</year>" +
+        "</show>";
+
+        //creates an XML DOM parser
+        XML_Parser = new DOMParser();
+
+        //creates a new XML DOM object using the text string
+        XML_Document = XML_Parser.parseFromString(show,"text/xml");
+
+        document.getElementById("XML_Example").innerHTML = 
+        XML_Document.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+        </script>
+    </body>
+</html>
