@@ -58,6 +58,8 @@ Coded an XML document with XML DOM parsers/objects using the text string.
 
 Downloaded and utilized React to build a timer.
 
+Wrote and ran JSX.
+
 Differentiated arguments from parameters when creating subprograms.
 
 Learned how to leverage AJAX to send a request to server, receive, and update data for browsers/users to use.
