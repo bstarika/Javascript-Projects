@@ -1,6 +1,6 @@
 # Javascript-Projects
 
-Projects completed through The Tech Academy:
+Projects completed through The Tech Academy's JavaScript Course:
 
 Demonstrated use of strings, objects, functions, methods, numbers, symbols, expressions and booleans.
 
