@@ -1,4 +1,4 @@
-# Javascript-Projects
+# Javascript Projects
 <ul>
 <li>Projects completed through The Tech Academy's JavaScript Course:
 <li>Demonstrated use of strings, objects, functions, methods, numbers, symbols, expressions and booleans.
